@@ -7,15 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+**About**
+I am a third year PhD Statistics student at The University of Texas at Austin. I am part of [D3 Research Lab led by Dr Arya Farahi](https://afarahi.github.io).
 
-About
-======
+**Awards and Scholarships**
 bla bla
 
-Awards and Scholarships
-======
+**Hobbies**
 bla bla
-
-Hobbies
-======
 
