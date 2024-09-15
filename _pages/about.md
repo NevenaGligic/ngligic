@@ -17,9 +17,5 @@ Awards and Scholarships
 bla bla
 
 Hobbies
-------
-bla
+======
 
-**Markdown generator**
-
-bla
