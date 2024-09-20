@@ -12,7 +12,6 @@ About
 I am a third year PhD Statistics student in the [Department of Statistics and Data Science](https://stat.utexas.edu/directory/nevena-gligic) at The University of Texas at Austin (UT).
 My research interests focus on solving real-world problems, in areas such as finance, using advanced machine and statistical learning as well as Bayesian modeling methods.
 As of the academic year 23/24, I have been working under the mentorship of [Dr. Arya Farahi](https://afarahi.github.io/Our-Team.html) in his [D3 Research Lab](https://afarahi.github.io).
-Also, I have been working with [Dr. Mingyuan Zhou](https://mingyuanzhou.github.io) and his research group.
 To learn more about my research projects, please visit the [Research](https://nevenagligic.github.io/research/) section of my webpage.
 For the duration of my PhD programme, I have been awarded *The College of Natural Sciences PhD Fellowship*.
 
